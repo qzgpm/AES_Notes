@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "6544abdedf87df0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "db88af07e4e1a4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffa57a74501abe5e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f7289701cf9ae6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2121e7a378456943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c38697511d7773a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec3440400609b093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d6d81e326231931",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b2cbb314b1b18085",
+    "type": "split",
+    "children": [
+      {
+        "id": "123c633075600c3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63ef0d2422a78ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SLM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SLM"
+            }
+          },
+          {
+            "id": "3cdca94c19d1f52d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0b16c996a38b0962",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6567a9920dc94fbe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0c449d93f175908b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ffa57a74501abe5e",
+  "lastOpenFiles": [
+    "NLP/Text Normalization.md",
+    "Optimisation/Fine-tuning.md",
+    "Automated Essay Scorer.md",
+    "NLP/NLP.md",
+    "NLP/Tokenization.md",
+    "LLM/LLM.md",
+    "NLP/Stemming.md",
+    "NLP/LLM.md",
+    "NLP/Automated Essay Scorer.md",
+    "NLP",
+    "Word Proccessing/NLP/Tokenization.md",
+    "Word Proccessing/NLP/Text Normalization.md",
+    "Word Proccessing/NLP/Stemming.md",
+    "Word Proccessing/NLP/LLM.md",
+    "Word Proccessing/NLP/Automated Essay Scorer.md",
+    "Word Proccessing/NLP/NLP.md",
+    "Word Proccessing/NLP",
+    "SLM/Types/Quantized Models.md",
+    "SLM/Types/Domain-specific Miniature Models.md",
+    "SLM/Types/Distilled Models.md",
+    "SLM/Types/Compressed Models.md",
+    "SLM/Types",
+    "SLM/SLM.md",
+    "SLM",
+    "LLM",
+    "Text Normalization.md",
+    "Text Normalization.md~",
+    "NLP/NLP.md~",
+    "Automated Essay Scorer.md~",
+    "Tokenization.md",
+    "NLP/SLM/SLM.md",
+    "NLP/SLM/SLM.md~",
+    "LLM.md",
+    "LLM.md~",
+    "Text Pre-Processing.md",
+    "Stemming.md"
+  ]
+}
