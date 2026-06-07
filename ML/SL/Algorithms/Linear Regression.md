@@ -1,0 +1,5 @@
+- It is a fundamental supervised learning algorithm used to model the relationship between a **dependent variable** and one or more **independent variables**.
+- It predicts **continuous values** by fitting a **straight line** that best represents the data.
+- It assumes that there is a **linear relationship** between the input and output
+- Uses a **best‑fit** line to make predictions
+- Commonly used in forecasting, trend analysis, and predictive modelling
