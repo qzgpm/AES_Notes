@@ -11,10 +11,14 @@
             "id": "ffa57a74501abe5e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ML/SL/Algorithms/Linear Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Regression"
             }
           }
         ]
@@ -180,9 +184,30 @@
   },
   "active": "ffa57a74501abe5e",
   "lastOpenFiles": [
+    "ML/SL/Algorithms/Linear Regression.md",
+    "ML/SL/Algorithms/Gradient Boosting.md",
+    "ML/SL/Algorithms/Logistic Regression.md",
+    "ML/SL/Algorithms/Support Vector Machine.md",
+    "ML/SL/Algorithms/Naive Bayes Algorithm.md",
+    "ML/SL/Algorithms/Decision Trees.md",
+    "ML/SL/Algorithms/K-Nearest Neighbors.md",
+    "ML/SL/Algorithms/Random Forests.md",
+    "K-Nearest Neighbors.md",
+    "Decision Trees.md",
+    "Logistic Regression.md",
+    "Support Vector Machine.md",
+    "Naive Bayes Algorithm.md",
+    "Gradient Boosting.md",
+    "Random Forests.md",
+    "Linear Regression.md",
+    "ML/SL/Algorithms",
+    "ML/SL/Supervised Learning.md",
+    "ML/RL",
+    "ML/SL",
+    "ML/Supervised Learning.md",
+    "ML/Supervised Learning.md~",
     "Automated Essay Scorer.md",
     "Supervised Learning.md",
-    "ML/Supervised Learning.md",
     "ML/Machine Learning.md",
     "ML/Automated Essay Scorer.md",
     "ML",
@@ -192,29 +217,8 @@
     "NLP/Text Normalization.md",
     "SLM/SLM.md",
     "SLM/SLM.md~",
-    "Optimisation/Fine-tuning.md",
-    "SLM/Types/Compressed Models.md",
     "Optimisation/Fine-tuning.md~",
-    "NLP/Tokenization.md",
-    "LLM/LLM.md",
-    "NLP/Stemming.md",
-    "NLP/LLM.md",
-    "NLP/Automated Essay Scorer.md",
     "NLP",
-    "Word Proccessing/NLP/Tokenization.md",
-    "Word Proccessing/NLP/Text Normalization.md",
-    "Word Proccessing/NLP/Stemming.md",
-    "Word Proccessing/NLP/LLM.md",
-    "Word Proccessing/NLP/Automated Essay Scorer.md",
-    "Word Proccessing/NLP/NLP.md",
-    "Word Proccessing/NLP",
-    "SLM/Types/Quantized Models.md",
-    "SLM/Types/Domain-specific Miniature Models.md",
-    "SLM/Types/Distilled Models.md",
-    "SLM/Types",
-    "SLM",
-    "LLM",
-    "Text Normalization.md",
-    "Text Normalization.md~"
+    "Word Proccessing/NLP"
   ]
 }
